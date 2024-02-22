@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on various Software and Cybersecurity Projects
+- 🔭 I’m currently working on a cloud Software Application as well as various Cybersecurity Simulations/Projects
 - 🌱 I’m currently aiming towards proficiency in Linux, C, and Shell Scripting
 - 📫 How to reach me: LinkedIn and email are in my Bio!
 - 👯 I’m looking to collaborate on projects if anyone is interested!
