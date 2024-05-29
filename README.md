@@ -3,7 +3,7 @@
 - 🌱 Aiming towards proficiency in Linux, C, and Shell Scripting
 - 👯 I’m looking to collaborate on projects if anyone is interested!
 - 📫 How to reach me: LinkedIn and email are in my Bio!
-- ❗ Stay tuned. I will be uploading my projects soon!
+- ❗ Stay tuned. I will be uploading more projects soon!
 <!--
 **KCE14/KCE14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
