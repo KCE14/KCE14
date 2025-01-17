@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a cloud Software Application as well as various Cybersecurity Simulations/Projects
-- 🌱 Aiming towards proficiency in Linux, C, and Shell Scripting
+- 🔭 I’m currently working on Cybersecurity Simulations/Projects
+- 🌱 Aiming towards proficiency in Go and Python and Shell Scripting
 - 👯 I’m looking to collaborate on projects if anyone is interested!
 - 📫 How to reach me: LinkedIn and email are in my Bio!
 - ❗ Stay tuned. I will be uploading more projects soon!
