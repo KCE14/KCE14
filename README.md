@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Cybersecurity & Programming Projects
-- 🌱 Aiming towards proficiency in Go
 - 📫 How to reach me: LinkedIn and email are in my Bio!
 - ❗ Stay tuned. I will be uploading more projects soon!
 <!--
